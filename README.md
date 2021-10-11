@@ -25,7 +25,7 @@ Plugin:
 
 "Code intellisene - Tự động hoàn thành code
 	Plug 'neoclide/coc.nvim', {'branch': 'release'} "Language sever
-			""CocInstall coc-snippets coc-clangd coc-tsserver coc-json coc-java coc-cmake 
+			""CocInstall coc-snippets coc-clangd coc-tsserver coc-json coc-java coc-cmake coc-ultisnips 
 			"CocConfig "
 	Plug 'jiangmiao/auto-pairs'
 	Plug 'preservim/nerdcommenter' 					" Comment code
