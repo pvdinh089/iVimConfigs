@@ -7,7 +7,7 @@ colorscheme onedark 		" Theme for VIM
 set hidden 					" Required to keep multiple buffers open multiple buffers
 set nowrap					" Display log lines as just one line
 set encoding=UTF-8 			" The endcoding displayed
-set pumheight=2 			" Makes popup menu smaller
+"set pumheight=2 			" Makes popup menu smaller
 set ruler 					" Show the cursor postion all the time
 set cmdheight=2 			" More space for displaying messages
 set iskeyword+=- 			" Treat dash separated words as a word text object
